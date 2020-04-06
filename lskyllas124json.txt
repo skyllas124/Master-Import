@@ -1,0 +1,18 @@
+{
+  "kind": "tasks#taskLists",
+  "items": [{
+    "kind": "tasks#tasks",
+    "id": "MDAzMTgwMzM3MjI5NTg4MjEwNzc6MDow",
+    "title": "My Tasks",
+    "updated": "2019-10-07T19:40:06.205041Z",
+    "items": [{
+      "kind": "tasks#task",
+      "id": "ZUdYb29LUGFUR1kyeE44VQ",
+      "title": "",
+      "updated": "2019-10-07T19:40:06.205041Z",
+      "selfLink": "https://www.googleapis.com/tasks/v1/lists/MDAzMTgwMzM3MjI5NTg4MjEwNzc6MDow/tasks/ZUdYb29LUGFUR1kyeE44VQ",
+      "status": "needsAction"
+    }],
+    "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/MDAzMTgwMzM3MjI5NTg4MjEwNzc6MDow"
+  }]
+}
