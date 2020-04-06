@@ -1,0 +1,6 @@
+	<2019-10-18 17:30:37.583 [Info] [KeychainCache.swift:38] fromBranch(_:withLabel:withDefault:factory:) > Read account.state from Keychain with label account.state.HaRJ5P9x1I9T.>
+	<2019-10-18 17:30:37.583 [Info] [KeychainCache.swift:56] checkpoint() > Storing account.state in Keychain with label account.state.HaRJ5P9x1I9T.>
+	<2019-10-18 17:30:37.600 [Info] [KeychainCache.swift:38] fromBranch(_:withLabel:withDefault:factory:) > Read account.sendTabKeys from Keychain with label account.sendTabKeys.HaRJ5P9x1I9T.>
+	<2019-10-18 17:30:37.605 [Info] [KeychainCache.swift:38] fromBranch(_:withLabel:withDefault:factory:) > Read account.syncAuthState from Keychain with label account.syncAuthState.HaRJ5P9x1I9T.>
+	<2019-10-18 17:30:48.772 [Info] [KeychainCache.swift:56] checkpoint() > Storing account.state in Keychain with label account.state.HaRJ5P9x1I9T.>
+	<2019-10-18 17:30:49.537 [Info] [KeychainCache.swift:56] checkpoint() > Storing account.syncAuthState in Keychain with label account.syncAuthState.HaRJ5P9x1I9T>
